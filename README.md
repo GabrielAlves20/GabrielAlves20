@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Alves, sou um desenvolvedor junior apaixonado por tecnologia. As tecnologias que eu uso incluem Java com SpringBoot, Python, C e MySQL. Estou</p>
+<p align="left">Meu nome é Gabriel Alves, sou um desenvolvedor junior apaixonado por tecnologia. As tecnologias que eu uso incluem Java com SpringBoot, Python, C e MySQL.</p>
 
 ###
 
