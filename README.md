@@ -7,11 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAlves20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://www.freepik.com/free-vector/programmer-concept-illustration_8775515.htm#fromView=keyword&page=1&position=43&uuid=3a05d709-0e7d-439c-9920-47bd26ed4f77&query=Programmer"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -42,6 +37,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GabrielAlves20/GabrielAlves20/output/snake.svg" alt="Snake animation" />
 
 ###
