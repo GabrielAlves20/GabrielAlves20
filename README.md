@@ -1,12 +1,12 @@
 <h1 align="center">Gabriel Alves</h1>
 
 <h3 align="center">
-Desenvolvedor Back-End Java | Spring Boot | Python
+Data Analyst
 </h3>
 
 <p align="center">
-Técnico em Desenvolvimento de Sistemas pelo SENAI, com experiência em desenvolvimento de APIs REST, bancos de dados e arquitetura de software.
-Atualmente focado em desenvolvimento Back-End utilizando Java com Spring Boot, Python, C e MySQL.
+Systems Development Technician certified by SENAI, with experience in REST API development, databases, and software architecture.
+Currently focused on data, with expertise in Python, Java with Spring Boot, C, and MySQL.
 </p>
 
 <h3 align="center">Tecnologias</h3>
