@@ -9,23 +9,7 @@ Técnico em Desenvolvimento de Sistemas pelo SENAI, com experiência em desenvol
 Atualmente focado em desenvolvimento Back-End utilizando Java com Spring Boot, Python, C e MySQL.
 </p>
 
----
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielAlves20&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
-    height="160"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves20&layout=compact&langs_count=6&theme=dark" 
-    height="160"
-  />
-</div>
-
----
-
-<h3 align="left">Tecnologias</h3>
+<h3 align="center">Tecnologias</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -54,7 +38,7 @@ Atualmente focado em desenvolvimento Back-End utilizando Java com Spring Boot, P
 
 ---
 
-<h3 align="left">Contato</h3>
+<h3 align="center">Contato</h3>
 
 <div align="left">
   <a href="mailto:Gabriel12425@gmail.com">
