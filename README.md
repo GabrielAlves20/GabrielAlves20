@@ -1,41 +1,67 @@
-<h4 align="left">Meu nome é Gabriel Alves, sou um desenvolvedor junior apaixonado por tecnologia. As tecnologias que eu uso incluem Java com SpringBoot, Python, C e MySQL.</h4>
+<h1 align="center">Gabriel Alves</h1>
 
-###
+<h3 align="center">
+Desenvolvedor Back-End Java | Spring Boot | Python
+</h3>
+
+<p align="center">
+Técnico em Desenvolvimento de Sistemas pelo SENAI, com experiência em desenvolvimento de APIs REST, bancos de dados e arquitetura de software.
+Atualmente focado em desenvolvimento Back-End utilizando Java com Spring Boot, Python, C e MySQL.
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAlves20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAlves20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielAlves20&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves20&layout=compact&langs_count=6&theme=dark" 
+    height="160"
+  />
 </div>
 
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+<h3 align="left">Tecnologias</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="mailto:Gabriel12425@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<h3 align="left">Contato</h3>
+
+<div align="left">
+  <a href="mailto:Gabriel12425@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/gabriel-da-silva-alves-852264233/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-
-###
