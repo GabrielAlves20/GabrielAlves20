@@ -11,7 +11,7 @@ Atualmente focado em desenvolvimento Back-End utilizando Java com Spring Boot, P
 
 <h3 align="center">Tecnologias</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
 
@@ -40,7 +40,7 @@ Atualmente focado em desenvolvimento Back-End utilizando Java com Spring Boot, P
 
 <h3 align="center">Contato</h3>
 
-<div align="left">
+<div align="center">
   <a href="mailto:Gabriel12425@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
