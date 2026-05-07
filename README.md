@@ -9,7 +9,7 @@ Systems Development Technician certified by SENAI, with experience in REST API d
 Currently focused on data, with expertise in Python, Java with Spring Boot, C, and MySQL.
 </p>
 
-<h3 align="center">Tecnologias</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -38,7 +38,7 @@ Currently focused on data, with expertise in Python, Java with Spring Boot, C, a
 
 ---
 
-<h3 align="center">Contato</h3>
+<h3 align="center">Contact me</h3>
 
 <div align="center">
   <a href="mailto:Gabriel12425@gmail.com">
